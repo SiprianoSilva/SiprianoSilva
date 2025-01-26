@@ -1,4 +1,4 @@
-## INICIANTE QUASE ZERO
+## INICIANTE QUASE ZERO, *sem projetos por enquanto
 
  <div>
    <a href="https://github.com/siprianosilva">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Ta ai, se pá eu coloco asa redes
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
